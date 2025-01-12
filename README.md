@@ -30,6 +30,7 @@ You'll be prompted to enter required API keys and URLs. Just hit enter to use de
 - IS_LOCAL (default: true)
 
 That's it! Your local data server should now be running.
+Now just add it to the provider on the app, for the default port it should be http://localhost:3000/v1 or http://127.0.0.1/v1
 
 **Contributing**
 
